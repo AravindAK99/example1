@@ -1,0 +1,133 @@
+.white1{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black1{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+#section1{
+    margin-left: cm;
+    
+}
+#section2{
+
+   margin-left: 1.5cm;
+    
+    margin-top: -12cm;
+}
+.white2{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black2{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+
+/* //row3 */
+
+#section3{
+   
+    margin-left: 3cm;
+    margin-top: -12cm;
+}
+.white3{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black3{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+
+   /* row4 */
+
+
+   #section4{
+   
+    margin-left: 4.5cm;
+    margin-top: -12cm;
+}
+.white4{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black4{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+ 
+/* row5 */
+
+
+#section5{
+   
+    margin-left: 6cm;
+    margin-top: -12cm;
+}
+.white5{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black5{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+ 
+/* row6 */
+
+#section6{
+   
+    margin-left: 7.5cm;
+    margin-top: -12cm;
+}
+.white6{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black6{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+ 
+
+ /* row7 */
+
+ #section7{
+   
+    margin-left: 9cm;
+    margin-top: -12cm;
+}
+.white7{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: black;
+}
+.black7{
+    width: 1.5cm;
+    height: 1.5cm;
+    background-color: white;
+}
+ 
+.border
+{
+   border:solid ;
+    margin-left: 4cm;
+
+}
+/* #row2{
+    padding-left: -1cm;
+} */
